@@ -1,0 +1,6 @@
+JWTPRIVATEKEY = THISISTHESECRETKEYUSEDINMONGO
+PORT = 7000
+DB = mongodb://localhost/authJwt
+
+
+// create the .env file and copy paste the data above

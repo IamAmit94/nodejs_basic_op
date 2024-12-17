@@ -1,0 +1,8 @@
+{
+    "dbConnectionString": "mongodb://localhost/authJwt",
+    "connectionParams": {
+        "useNewUrlParser": true,
+        "useUnifiedTopology": true,
+        "useCreateIndex": true
+    }
+}
